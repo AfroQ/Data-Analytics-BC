@@ -1,0 +1,5 @@
+config.py
+.ipynb_checkpoints
+.DS_Store
+_pycache_
+ETL-Notebook-Day-01.ipynb
